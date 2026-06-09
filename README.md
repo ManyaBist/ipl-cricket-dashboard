@@ -4,7 +4,7 @@ Interactive Power BI dashboard analyzing 1,095 IPL matches
 across 17 seasons (2008–2024).
 
 ## Dashboard Preview
-<img width="608" height="341" alt="image" src="https://github.com/user-attachments/assets/3209f6cc-0160-4653-b988-0a82324c3c49" />
+<img width="606" height="338" alt="image" src="https://github.com/user-attachments/assets/5524fe72-a71c-4dde-9222-4949b8b7ee5d" />
 
 ## Key Insights
 - Mumbai Indians are the most successful team with 145+ wins
